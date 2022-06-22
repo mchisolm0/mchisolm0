@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mchisolm0 (he/him)
+- 👀 I’m interested in everything from history and theology to chemistry and psychology.
+- 🌱 I’m currently learning React Native/JavaScript and Java.
+- 💞️ I’m looking to collaborate on any project which can help me learn open-source workflows. I will hold a special interest in projects which could help students and/or teachers
+- 📫 Reach me on Twitter @matt_chisolm
